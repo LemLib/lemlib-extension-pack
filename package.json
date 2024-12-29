@@ -1,0 +1,15 @@
+{
+  "name": "lemlib-extension-pack",
+  "displayName": "LemLib Extension Pack",
+  "description": "a collection of extensions that make working with LemLib a breeze",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
