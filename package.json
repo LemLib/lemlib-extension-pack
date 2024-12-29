@@ -2,6 +2,7 @@
   "name": "lemlib-extension-pack",
   "displayName": "LemLib Extension Pack",
   "description": "a collection of extensions that make working with LemLib a breeze",
+  "icon": "images/icon.png",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.96.0"
