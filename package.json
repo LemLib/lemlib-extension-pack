@@ -2,7 +2,7 @@
   "name": "lemlib-extension-pack",
   "publisher": "LemLib",
   "displayName": "LemLib Extension Pack",
-  "description": "a collection of extensions that make working with LemLib a breeze",
+  "description": "A collection of VSCode extensions that make working with LemLib and PROS a breeze!",
   "license": "MIT",
   "repository": {
     "type": "git",
