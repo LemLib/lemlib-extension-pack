@@ -3,6 +3,11 @@
   "publisher": "LemLib",
   "displayName": "LemLib Extension Pack",
   "description": "a collection of extensions that make working with LemLib a breeze",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LemLib/lemlib-extension-pack"
+  },
   "icon": "images/icon.png",
   "version": "0.1.0",
   "engines": {
