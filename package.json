@@ -1,5 +1,6 @@
 {
   "name": "lemlib-extension-pack",
+  "publisher": "LemLib",
   "displayName": "LemLib Extension Pack",
   "description": "a collection of extensions that make working with LemLib a breeze",
   "icon": "images/icon.png",
