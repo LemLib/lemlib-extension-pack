@@ -19,12 +19,9 @@
   "extensionPack": [
     "jeff-hykin.better-cpp-syntax",
     "llvm-vs-code-extensions.vscode-clangd",
-    "streetsidesoftware.code-spell-checker",
-    "cschlosser.doxdocgen",
     "usernamehw.errorlens",
     "pkief.material-icon-theme",
     "sigbots.pros",
-    "shd101wyy.markdown-preview-enhanced",
     "vexide.symbolizer-for-vex-v5"
   ]
 }
