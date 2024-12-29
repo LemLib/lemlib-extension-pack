@@ -2,11 +2,14 @@
 
 A collection of VSCode extensions that make working with LemLib and PROS a breeze!
 
-includes:
+### Extensions
+__**IMPORTANT**__:This extension pack is INCOMPATIBLE with the [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) extension. Uninstall it before installing this pack
+
 - [Better C++ Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax)
   - Better syntax highlighting
 - [Clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd)
   - fast and lightweight alternative to the C/C++ extension pack
+  - code formatting
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
   - easily see errors on the lines they occur
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
