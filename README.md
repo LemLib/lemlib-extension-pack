@@ -1,16 +1,17 @@
-# lemlib-extension-pack README
+# lemlib-extension-pack
 
-## Working with Markdown
+A collection of VSCode extensions that make working with LemLib and PROS a breeze!
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+includes:
+- [Better C++ Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax)
+  - Better syntax highlighting
+- [Clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd)
+  - fast and lightweight alternative to the C/C++ extension pack
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+  - easily see errors on the lines they occur
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+  - file icons that are easier to see, and just look nicer
+- [PROS](https://marketplace.visualstudio.com/items?itemName=sigbots.pros)
+  - manage PROS projects
+- [Symbolizer for VEX V5](https://marketplace.visualstudio.com/items?itemName=vexide.symbolizer-for-vex-v5)
+  - debug data abort exceptions easily
